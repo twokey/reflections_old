@@ -1,0 +1,12 @@
+Question: What happens when you initialize a repository? Why do you need to do it?
+
+Answer: When I initialized a repository Git created system folder where it keeps
+track of all changes of that directory. However, before Git starts tracking one should
+add files to track.
+
+Question: How is the staging area different from the working directory and the 
+repository? What value do you think it offers?
+
+Answer: Staging area is a virtual intermidiate space where you can add your files
+before making commit. In this way you can precisely control what files you want 
+to controll.

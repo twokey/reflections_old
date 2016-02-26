@@ -1,0 +1,55 @@
+Answer without a question:
+I spend half an hour trying to make sublime running from command line. Unsuccessfuly.
+However, now I can open and edit files with nano editor. Also, I learned
+how to compare two files with diff command.
+
+Question:
+How could having easy access to the entire history of a file make you a more efficient
+programmer in the long term?
+
+Answer:
+1. It allows you to go to previous version of a file if you made a mistake
+and don't know or don't remember what you've changed.
+
+2. One can analyze how his code changed and evolved over time, thus, he/she
+can learn from mistakes
+
+Question:
+What do you think are the pros and cons of manually choosing when to create
+ a commit, like you do in Git, vs having versions automatically saved, 
+like Google Docs does?
+
+Answer:
+I think the main pros is that it gives a lot of flexibility. However, when 
+changings are saved automatically, you don't have risk to forget to commit 
+
+Question: Why do you think some version control systems, like Git, allow 
+saving multiple files in one commit, while others, like Google Docs, 
+treat each file separately?
+
+Answer: I think it is because they have different purposes. In 
+programming it is important to keep track of separate files in one 
+project, while in a regular document it is not neccessary
+
+Question: How can you use the commands git log and git diff to view the history of files?
+
+Answer: I can use the command git log to find the commit with the changes I'm 
+looking for. It is important to make meaningful comment when commiting,
+because later the can help to find the commit I'm looking for.
+The command git diff is very helpful to compare to commits to find what was changed
+
+Question: How might using version control make you more confident to make changes 
+that could break something?
+
+Answer: Now, when I know that I always can come back to the previous version
+of my project I feel more confident in making changes. However I shouldn't 
+forget to commit before making changes. In other words, I should commit
+after I made changes in a logical block and I should make sure I comit
+before start making changes for the next logical block
+
+Question: Now that you have your workspace set up, what do you want to try 
+using Git for?
+
+Answer: I want to try using Git for my project in iOS Development course. Also,
+I want to find out how I can fix problem with my terminal (and I did it (!))
+
