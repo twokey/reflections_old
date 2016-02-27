@@ -10,3 +10,12 @@ repository? What value do you think it offers?
 Answer: Staging area is a virtual intermidiate space where you can add your files
 before making commit. In this way you can precisely control what files you want 
 to controll.
+
+Question: How can you use the staging area to make sure you have one commit 
+per logical change?
+
+Answer: I can use staging area to add there only those files, which are
+related to the logical change. In this way I can work on several changes
+simultaneusly, and later form them into separate commits by dividing into
+utilizing staging area.
+
