@@ -19,3 +19,10 @@ related to the logical change. In this way I can work on several changes
 simultaneusly, and later form them into separate commits by dividing into
 utilizing staging area.
 
+Question: What are some situations when branches would be helpful in keeping
+your history organized? How would branches help?
+
+Answer: Branches can be helpful when I want to try to develop a new feature
+or test some new ideas, but at the same time to keep orginal version of the
+project intact. This can be helpful for example if I decide to develop
+a version of my software in different language (!)
