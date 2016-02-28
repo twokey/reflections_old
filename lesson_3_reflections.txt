@@ -7,3 +7,11 @@ will be not accessible. Another usefull scenario when you collaborate
 with someone else you can work on the same project simultaneously.
 In addition to that, you mith want to use GitHub when you work on 
 the same project from different locations.
+
+Question: Why might you want to always pull changes manually rather 
+than having Git automatically stay up-to-date with your remote 
+repository?
+
+Answer: Because You have more control over what you are doing. There
+is a chance that someone upload changes to the repository and you are
+not awer of them.
