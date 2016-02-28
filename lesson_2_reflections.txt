@@ -40,3 +40,11 @@ represent it in the diagram the way we do?
 Answer: Result of merging two branches together is a new commit, which includes
 changes from two last commits from these two branches. Now it looks like two
 branches merged together and this is what actually happened. 
+
+Question: What are the pros and cons of Git’s automatic merging vs. always 
+doing merges manually?
+
+Answer: Automatic merging saves time and very convenient when there are not 
+many changes and they done in different parts of the file. Meanwhile,
+manual merging provides more controll over the proces. However it can take
+more time to resolve all conflicts.
