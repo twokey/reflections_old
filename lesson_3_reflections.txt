@@ -1,0 +1,9 @@
+Question: When would you want to use a remote repository rather than 
+keeping all your work local?
+
+Answer:Using remote repository makes sense in two cases. It can help 
+your work safe in case your local computer breakes and local repository 
+will be not accessible. Another usefull scenario when you collaborate
+with someone else you can work on the same project simultaneously.
+In addition to that, you mith want to use GitHub when you work on 
+the same project from different locations.
