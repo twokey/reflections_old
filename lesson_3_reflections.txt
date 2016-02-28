@@ -23,3 +23,9 @@ Answer: Forks are just copies of others people repositories on GitHub.
 It is useful when I want to work on someones project, but I don't have
 permissions to edit (push) to their repository.
  
+Question: What is the benefit of having a copy of the last known state of 
+the remote stored locally?
+
+Answer: When you have the most update version locally you can avoid conflicts
+during merging in future. The farther back you are on commit tree the more
+changes are introduced into the code, thus, making mergin more complicated.
