@@ -26,3 +26,17 @@ Answer: Branches can be helpful when I want to try to develop a new feature
 or test some new ideas, but at the same time to keep orginal version of the
 project intact. This can be helpful for example if I decide to develop
 a version of my software in different language (!)
+
+Question: How do the diagrams help you visualize the branch structure?
+
+Answer: Using diagrams I can understand branch structures better in many ways.
+I can see how each commit is related to the other commits and how it can be
+reached from them. Also I should be carefull checking out commits,
+because I can lost current changes I've just made.
+
+Question: What is the result of merging two branches together? Why do we 
+represent it in the diagram the way we do?
+
+Answer: Result of merging two branches together is a new commit, which includes
+changes from two last commits from these two branches. Now it looks like two
+branches merged together and this is what actually happened. 
